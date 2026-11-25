@@ -76,7 +76,7 @@ Through these practical assignments, I am developing an understanding of:
 
 ##  Student Information
 
-- **Name:** Prithavi Chand
+- **Name:** Nimaan javeed
 - **Institution:** Bosscoder School of Technology
 - **Subject:** Web Development Lab
 - **Assignment:** Practical 1–13
